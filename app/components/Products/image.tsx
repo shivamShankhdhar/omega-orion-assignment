@@ -1,7 +1,11 @@
 import Image from 'next/image'
 import React from 'react'
 
-const ProductItem = ({imageUrl}:any) => {
+interface Props{
+  imageUrl:string;
+}
+
+const ProductItem = ({imageUrl}:Props) => {
   return (
     <div className="w-[600px]">
         <Image
