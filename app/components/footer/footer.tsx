@@ -25,7 +25,7 @@ const Footer = () => {
     }
 
   return (
-    <div className='flex gap-2 mt-5 min-h-[250px] sm:mb-10 md:flex-row lg:flex-row sm:flex-col justify-around max-h-[fit-content]flex-wrap'>
+    <div className='flex gap-2 mt-5 min-h-[250px] sm:mb-10 md:flex-row lg:flex-row max-sm:flex-col sm:flex-col justify-around max-h-[fit-content]flex-wrap'>
         <div className="ml-[80px] mr-[50px]">
                 <Link
                 href={"/"}>
