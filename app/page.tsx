@@ -11,7 +11,10 @@ export default function Home() {
       <HeroSection/>
       <ProductsSection/>
       <FeatureSection/>
+      
+     <div className="w-full flex justify-center items-center">
       <CommentSection/>
+      </div>
       <footer>
         <Footer/>
       </footer>
