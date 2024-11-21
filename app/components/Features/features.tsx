@@ -13,7 +13,7 @@ const FeatureSection = () => {
                 Your path to a better you has never been this straightforward!
             </p>
             <p>
-                I also want to share my exploration of our app's features. You can set specific quitting goals, find tips for overcoming cravings, and access support resources whenever you need them. I hope you guys find it useful.Feel free to comment!🔥 Checkout our other product - <Link href="https://ui8.net/omega-orion/products/forgo---quit-smoking-app">https://ui8.net/omega-orion/products/forgo---quit-smoking-app✉️</Link>
+                I also want to share my exploration of our app&apos;s features. You can set specific quitting goals, find tips for overcoming cravings, and access support resources whenever you need them. I hope you guys find it useful.Feel free to comment!🔥 Checkout our other product - <Link href="https://ui8.net/omega-orion/products/forgo---quit-smoking-app">https://ui8.net/omega-orion/products/forgo---quit-smoking-app✉️</Link>
             </p>
         </div>
         <div className="py-8 px-5 flex-1">
