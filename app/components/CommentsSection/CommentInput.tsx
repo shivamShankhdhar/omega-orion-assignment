@@ -8,9 +8,9 @@ const CommentInput = () => {
     }
 
   return (
-    <div className='w-full flex justify-center items-center gap-2 '>
+    <div className='w-full flex justify-center items-center gap-2 bg-[#1b1b1b] p-3'>
         <div className="flex-1 ">
-            <input className='w-full p-1 outline-none bg-black' 
+            <input className='w-full p-1 outline-none bg-[#1b1b1b]' 
             placeholder='Drop a comment, be helpful' 
             onChange={(e)=>setComment(e.target.value)}/>
         </div>
