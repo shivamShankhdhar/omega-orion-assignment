@@ -17,11 +17,6 @@ const Footer = () => {
         "Terms of Use",
         "Privacy Policy",
     ]
-
-    const social_links = [
-        "email",
-        "instagram",
-    ]
     const [email,setEmail] = useState<string>();
     const handleSubmit = () =>{
         alert(email)
